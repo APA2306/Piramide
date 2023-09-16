@@ -19,7 +19,7 @@ if (mattoni <= 0)
 Il programma entra in un ciclo while dove grazie a un if annidato se possiede il numero di blocchi necessario aumenta il conto dei piani creabili di uno.
 Se finisce i blocchi o se non ne ha abbastanza per creare il prossimo piano esce dal ciclo e ritorna il conteggio dei piani o quello dei blocchi rimanenti.
 
-#ciclo principale
+ ##ciclo principale
 
 ~~~c#
 while (supp == 0)
